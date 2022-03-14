@@ -1,32 +1,24 @@
 # Notes
-simple notes app
+
 # Overview
-
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of your app.  Describe how to use the app.}
-
-{Describe your purpose for creating this app.}
-
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the app running and a walkthrough of the code.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+In this project, I created a simple notes app with the purpose of just trying to create something functional and that could be used for your day to day use. This notes app, is pretty simple in design, it allows the user to add, edit and delete notes. The purpose of this app is to help the user record down notes for reminders, or just simply take a note of something important. 
 
 # Development Environment
 
-{Describe the tools that you used to develop the app}
 
-{Describe the programming language that you used and any libraries.}
+Android Studio
+Kotlin
+MVVM
+Room database
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Android Developer](https://developer.android.com/)
+* [Stack Overflow](https://stackoverflow.com/)
+* [Geeks for Geeks Note Tutorial](https://www.geeksforgeeks.org/how-to-build-a-simple-note-android-app-using-mvvm-and-room-database/)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* UI design
+* Filters (Sort)
+* Additonal feautures (colors, favorites)
